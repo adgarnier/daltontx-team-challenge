@@ -1,0 +1,27 @@
+Interface Contacting Residues
+pdbID_chain1_resName_resID	<-->	pdbID_chain2_resName_resID
+
+2dsr_1_B_ALA_3	<-->	2dsr_1_G_SER_169
+2dsr_1_B_ILE_4	<-->	2dsr_1_G_ARG_170
+2dsr_1_B_ILE_4	<-->	2dsr_1_G_THR_171
+2dsr_1_B_ILE_4	<-->	2dsr_1_G_HIS_172
+2dsr_1_B_ILE_4	<-->	2dsr_1_G_LEU_175
+2dsr_1_B_HIS_5	<-->	2dsr_1_G_ARG_170
+2dsr_1_B_HIS_5	<-->	2dsr_1_G_THR_171
+2dsr_1_B_HIS_5	<-->	2dsr_1_G_HIS_172
+2dsr_1_B_CYS_6	<-->	2dsr_1_G_THR_171
+2dsr_1_B_CYS_6	<-->	2dsr_1_G_HIS_172
+2dsr_1_B_PRO_7	<-->	2dsr_1_G_THR_171
+2dsr_1_B_PRO_7	<-->	2dsr_1_G_HIS_172
+2dsr_1_B_PRO_7	<-->	2dsr_1_G_GLU_173
+2dsr_1_B_GLU_29	<-->	2dsr_1_G_GLY_200
+2dsr_1_B_PRO_30	<-->	2dsr_1_G_GLY_200
+2dsr_1_B_CYS_32	<-->	2dsr_1_G_HIS_172
+2dsr_1_B_CYS_32	<-->	2dsr_1_G_ASP_199
+2dsr_1_B_CYS_32	<-->	2dsr_1_G_GLY_200
+2dsr_1_B_GLY_33	<-->	2dsr_1_G_ASP_199
+2dsr_1_B_GLY_33	<-->	2dsr_1_G_GLY_200
+2dsr_1_B_TYR_49	<-->	2dsr_1_G_ALA_197
+2dsr_1_B_TYR_49	<-->	2dsr_1_G_ARG_202
+2dsr_1_B_MET_73	<-->	2dsr_1_G_ARG_202
+2dsr_1_B_HIS_74	<-->	2dsr_1_G_LYS_223
