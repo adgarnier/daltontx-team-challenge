@@ -1,0 +1,26 @@
+Interface Contacting Residues
+pdbID_chain1_resName_resID	<-->	pdbID_chain2_resName_resID
+
+2pnr_1_A_PRO_141	<-->	2pnr_1_C_ARG_151
+2pnr_1_A_PRO_384	<-->	2pnr_1_C_GLU_153
+2pnr_1_A_GLU_385	<-->	2pnr_1_C_LEU_165
+2pnr_1_A_ALA_386	<-->	2pnr_1_C_LEU_165
+2pnr_1_A_ALA_386	<-->	2pnr_1_C_GLY_177
+2pnr_1_A_ALA_386	<-->	2pnr_1_C_GLU_179
+2pnr_1_A_ASN_391	<-->	2pnr_1_C_ALA_174
+2pnr_1_A_ASN_391	<-->	2pnr_1_C_THR_175
+2pnr_1_A_PRO_392	<-->	2pnr_1_C_ALA_174
+2pnr_1_A_PRO_392	<-->	2pnr_1_C_THR_175
+2pnr_1_A_SER_393	<-->	2pnr_1_C_GLU_170
+2pnr_1_A_SER_393	<-->	2pnr_1_C_THR_171
+2pnr_1_A_SER_393	<-->	2pnr_1_C_ASP_172
+2pnr_1_A_SER_393	<-->	2pnr_1_C_LYS_173
+2pnr_1_A_SER_393	<-->	2pnr_1_C_ALA_174
+2pnr_1_A_SER_393	<-->	2pnr_1_C_THR_175
+2pnr_1_A_SER_394	<-->	2pnr_1_C_GLU_170
+2pnr_1_A_GLU_395	<-->	2pnr_1_C_GLU_170
+2pnr_1_A_GLU_395	<-->	2pnr_1_C_ARG_196
+2pnr_1_A_PRO_396	<-->	2pnr_1_C_ASP_172
+2pnr_1_A_ARG_397	<-->	2pnr_1_C_THR_143
+2pnr_1_A_ARG_397	<-->	2pnr_1_C_ASP_172
+2pnr_1_A_ARG_397	<-->	2pnr_1_C_LYS_173
